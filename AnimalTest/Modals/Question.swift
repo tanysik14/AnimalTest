@@ -70,10 +70,10 @@ extension Question {
                 title: "Любите ли вы поездки на машине",
                 type: .ranger,
                 answers: [
-                    Answer(title: "Обожаю", type: .dog),
+                    Answer(title: "Ненавижу", type: .dog),
                     Answer(title: "Нервничаю", type: .cat),
                     Answer(title: "Не замечаю", type: .rabbit),
-                    Answer(title: "Ненавижу", type: .turtle)
+                    Answer(title: "Обожаю", type: .turtle)
                 ]
             )
         ]
